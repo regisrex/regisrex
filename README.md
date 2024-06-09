@@ -1,6 +1,7 @@
-###  Hey👋, I am Rex
+##  Hi, I am Rex
+I'm a 17yo independent software engineer.
 <!--
-I'm a 17yo <b>independent software engineer</b> currently revamping [scriptylabs](https://scriptylabs.com).<br>
+currently revamping [scriptylabs](https://scriptylabs.com).<br>
 I focus on <b>crafting performant apps</b> and making <b>problem solving designs</b>.<br><br>
 When I get time, I push some commits on  <b>open source tools</b> that can be useful:
 - [gcommit](https://github.com/veritem/gcommit)-&nbsp;conventional commits utility cli
