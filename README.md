@@ -1,8 +1,7 @@
-<samp>
-<h3>👋 Hi! I am Rex </h3>
+
+<h3> Hi!👋&nbsp;&nbsp;&nbsp;I am Rex </h3>
 I'm an independent programmer.
 I live <a href="https://regisndizihiwe.me">here</a>.
-</samp>
 <!--
 currently revamping [scriptylabs](https://scriptylabs.com).<br>
 I focus on <b>crafting performant apps</b> and making <b>problem solving designs</b>.<br><br>
