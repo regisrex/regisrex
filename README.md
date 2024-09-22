@@ -1,6 +1,4 @@
-
-
-Cmd + R
+<tt>Cmd R</tt>
 <!--
 <h3> Hi!👋&nbsp;&nbsp;&nbsp;I am Rex </h3>
 I'm an independent programmer.
