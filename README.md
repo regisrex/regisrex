@@ -1,11 +1,6 @@
-### Rex. 👋
-<!--I'm a  independent programmer based in Kigali, and I'm always thirsty for building <b>great</b> (dev) tools and software products.
-<br>
-Fun fact: I'm a designer but I have some rust in production too 💪🏻😄
-<br>
--->
-<em>
-  
-Hey there, it's Rex ! stalk me -> 
-[site](https://regisrex.me)   [blog](https://regisrex.me/blog)  [X](https://regisrex.me/twitter)
-</em>
+### Hey, It's Rex 👋
+I'm a software engineer and i do designs too.  
+Website: [https://regisrex.me](regisrex.me)  
+UI Portifolio: [https://ui.regisrex.me](regisrex.me)  
+
+Let's build something great -> [reach out 😉](https://wa.me/250788927469?text=Hi%20Rex,%20let's%20build%20something)
