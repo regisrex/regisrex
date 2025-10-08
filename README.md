@@ -1,5 +1,5 @@
 ### Hey, It's Rex 👋
-I'm a software engineer and i do designs too.  
+I'm a software engineer by day and a product designer by night.  
 Website: [https://regisrex.me](regisrex.me)  
 UI Portifolio: [https://ui.regisrex.me](regisrex.me)  
 
