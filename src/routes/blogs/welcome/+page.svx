@@ -1,0 +1,9 @@
+
+Some amazing content with custom styling.
+
+ ## A blog about code 
+ 
+ 
+ ```javascript 
+ console.log('Hello,world!');
+  ```
